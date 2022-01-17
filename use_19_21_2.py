@@ -1,3 +1,5 @@
+# Дима, тебе нельзя сюда смотреть
+
 from functools import lru_cache
 
 def moves(h):
